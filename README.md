@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 No, I don't want to learn how to design a README file
 
 
