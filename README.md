@@ -12,5 +12,5 @@ No, I don't want to learn how to design a README file
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VapeCat29&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VapeCat29&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
